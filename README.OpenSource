@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "pin-project-lite",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.2.9",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/taiki-e/pin-project-lite",
+    "Description": "A lightweight version of pin-project written with declarative macros."
+  }
+]
